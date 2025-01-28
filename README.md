@@ -2,3 +2,5 @@
 
 # Learning about Version Control
 Author: Chenguang Li
+
+Solving merge conflicts is easy!
